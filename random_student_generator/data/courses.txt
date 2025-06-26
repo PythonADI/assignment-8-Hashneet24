@@ -1,0 +1,18 @@
+Computational Thinking
+Introduction to Computer Programming
+Intermediate Computer Programming
+Introduction to Data Science and Python
+Machine Organization and Assembly Language
+Experimental Topics
+Special Study
+Computers and Society
+Data Structures
+Programming Languages
+Computer Architecture
+Social, Legal, and Ethical Issues in Computing
+UNIX System Administration
+Senior Seminar
+Experimental Topics
+Undergraduate Research Seminar
+Undergraduate Honors Thesis
+Special Study
